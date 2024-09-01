@@ -1,0 +1,895 @@
+{
+    "companyList": [
+        {
+            "id": "tav",
+            "name": "TAV",
+            "position": "Software Engineer",
+            "date": "04/2022 - Present",
+            "url": "https://tavtechnologies.aero/",
+            "urlDescription": "TAV Official Web Site",
+            "about": "TAV Airports is an airport operation and services company which is member of Groupe ADP.",
+            "details": {
+                "listedInfoList": [
+                    {
+                        "key": "Some airports of TAV (year 2024)",
+                        "valueList": [
+                            "Skopje International Airport (North Macedonia)",
+                            "Zagreb Airport / MZLZ Consortium (Croatia)",
+                            "Ankara Esenboğa Airport (Turkey)",
+                            "Milas-Bodrum Airport (Turkey)",
+                            "Izmir Adnan Menderes Airport (Turkey)",
+                            "Almaty Airport (Kazakhstan)",
+                            "Madinah Airport (Saudi Arabia)",
+                            "All airport list: <a target='_blank' rel='noopener noreferrer' href='https://tavtechnologies.aero/en-EN/about-us/pages/references'>TAV Official Site - references</a>"
+                        ]
+                    },
+                    {
+                        "key": "About Groupe ADP (year 2023)",
+                        "valueList": [
+                            "Headquarters: Paris, France",
+                            "336 million passenger",
+                            "50 countries",
+                            "28000 employees",
+                            "<a target='_blank' rel='noopener noreferrer' href='https://www.parisaeroport.fr/en/group/strategy'>Groupe ADP - more</a>"
+                        ]
+                    },
+                    {
+                        "key": "Some airports of Groupe ADP (year 2023)",
+                        "valueList": [
+                            "3 airports in Paris (France)",
+                            "Zagreb (Croatia)",
+                            "Amman (Jordan)",
+                            "Santiago (Chile)"
+                        ]
+                    }
+                ],
+                "singleInfoList": [
+                    {
+                        "key": "Companies owned by TAV (year 2024)",
+                        "value": "Havaş, TGS"
+                    }
+                ]
+            },
+            "projectList": [
+                {
+                    "id": "flight-management",
+                    "name": "Flight Management System",
+                    "duration": "Present",
+                    "company": "",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://tams.tavtechnologies.aero/",
+                            "description": "TAMS Project"
+                        }
+                    ],
+                    "detailList": [
+                        "Developed the flight management services for airports.",
+                        "Worked as a back-end developer and had the full responsibility of the application development, support and it's security."
+                    ],
+                    "highLevelTechnologyStackListExist": false,
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Bitbucket",
+                            "Atlassian Confluence",
+                            "Atlassian Jira",
+                            "DBeaver (22.x)",
+                            "Eclipse IDE (2022.X)",
+                            "Git (SCM - Source Control Management) (2.35)",
+                            "Intellij IDEA (2021.x)",
+                            "Microsoft Windows"
+                        ],
+                        "frontEndListExist": false,
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven (3.8.1)",
+                            "HTTP RESTFull Web Services",
+                            "Jackson (XML/JSON Mapper) (2.9)",
+                            "Java (11)",
+                            "JUnit (4) (Framework for unit tests)",
+                            "Keycloak",
+                            "Lombok (1.18)",
+                            "Mapstruct (Object Mapper Framework) (1.3)",
+                            "Mockito (2.2) (Test Driven Development - TDD)",
+                            "Spring Boot (2.2)",
+                            "Spring Cloud Microservices (Hoxton.SR8)",
+                            "Spring Data (JPA/Hibernate)",
+                            "Spring MVC",
+                            "Swagger (OpenAPI) (for API Documentation)",
+                            "Testcontainers (1.15.3) (for Integration tests)",
+                            "WebSocket (with SockJS & STOMP)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Microsoft SQL Server Database (MSSQL) (2019) (15.0)",
+                            "Apache Ignite (2.10.x)",
+                            "Apache Kafka (2.8)",
+                            "ElasticStack - (ELK - ElasticSearch, Logstash, Kibana)",
+                            "Jenkins (2.332.3) (for CI/CD)",
+                            "Openshift (4.10) & Kubernetes (1.23) & Docker containers",
+                            "Redis (6.0.9)",
+                            "SonarQube (8.9) (Code Quality Tool & Secure Analysis)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "etiya",
+            "name": "Etiya",
+            "position": "Software Engineer",
+            "date": "02/2021 - 03/2022 (1 year 2 months)",
+            "url": "https://www.etiya.com",
+            "urlDescription": "Etiya Official Web Site",
+            "about": "Etiya is a software and R&D company mostly providing BSS solutions to telecommunication companies.",
+            "details": {
+                "listedInfoList": [
+                    {
+                        "key": "Some projects of company",
+                        "valueList": [
+                            "Artificial intelligence based social data analyzer for Turktelekom",
+                            "Telecom products and internal CRM for Videotron (Canada based company) <a href=\"https://videotron.com/en\">https://videotron.com/en</a>",
+                            "Telecom products and internal CRM for Ooredoo (Oman based company)",
+                            "ofisimik.com using by ETIYA, Koton (Turkish company), other companies...",
+                            "Artificial intelligence based chat-bot",
+                            "Artificial intelligence video analytics solutions",
+                            "Participant of TM Forum: <a href=\"https://dtw.tmforum.org/exhibitor/etiya/\">https://dtw.tmforum.org/exhibitor/etiya/</a>"
+                        ]
+                    }
+                ],
+                "singleInfoList": [
+                    {
+                        "key": "Number of employees",
+                        "value": "1100 (year 2022)"
+                    },
+                    {
+                        "key": "Headquarters",
+                        "value": "Netherlands (year 2022)"
+                    }
+                ]
+            },
+            "projectList": [
+                {
+                    "id": "telecommunication-web-project",
+                    "name": "Telecommunication Web Project",
+                    "duration": "13 months",
+                    "company": "",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://videotron.com/en",
+                            "description": "Videotron"
+                        }
+                    ],
+                    "detailList": [
+                        "Productization and architectural transformation of a CRM system with e-commerce interface.",
+                        "Worked as a back-end developer and had the full responsibility of the application development, support and it's security.",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "highLevelTechnologyStackListExist": false,
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Bitbucket (6.4.1)",
+                            "Atlassian Confluence (1000.0.0)",
+                            "Atlassian Jira (8.5.0)",
+                            "DBeaver (5.x)",
+                            "Git (SCM - Source Control Management) (2.31.x)",
+                            "IntelliJ IDEA IDE (2020.x - 2021.x)",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "frontEndListExist": false,
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven (3.6)",
+                            "Dozer (mapper framework) (5.5.1)",
+                            "HTTP REST Web services",
+                            "Jackson (XML/JSON mapper)",
+                            "Java (8.x)",
+                            "JUnit (5.x) (Framework for unit tests)",
+                            "Mockito (Test Driven Development - TDD)",
+                            "Keycloak (12.0.1)",
+                            "Mapstruct (object mapper framework) (1.4.x)",
+                            "Oracle Database",
+                            "PostgreSQL Database (10.6)",
+                            "SonarQube (Code Quality Tool & Secure Analysis)",
+                            "Spring Boot (2.3)",
+                            "SQL",
+                            "Swagger (2.0) (for API Documentation)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Apache ActiveMQ (5.1.x) (Message Queue - Broker)",
+                            "Sonatype Nexus",
+                            "Jenkins (2.x) (for CI/CD)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "asseco",
+            "name": "Asseco",
+            "position": "Software Engineer",
+            "date": "03/2019 - 01/2021 (1 year 11 months)",
+            "url": "https://see.asseco.com",
+            "urlDescription": "Asseco Official Web Site",
+            "about": "Asseco, headquarter in Poland, provides financial solutions in many countries. Asseco owns the Nestpay product, which is the payment software (VPOS). It had a 65 million monthly online payment transactions in 2019.",
+            "details": {
+                "listedInfoList": [
+                    {
+                        "key": "Some projects of company (year 2022)",
+                        "valueList": [
+                            "Paratika",
+                            "Merchant Safe Unipay (MSU)",
+                            "Nestpay (online payment transaction 65 million in a month)"
+                        ]
+                    },
+                    {
+                        "key": "Some of MSU merchants (year 2022)",
+                        "valueList": [
+                            "macfit.com.tr",
+                            "teknosa.com",
+                            "sahibinden.com",
+                            "hilti.com.tr"
+                        ]
+                    },
+                    {
+                        "key": "Some of Nestpay merchants (year 2022)",
+                        "valueList": [
+                            "Akbank",
+                            "İş Bankası",
+                            "Ziraat Bankası",
+                            "TEB",
+                            "Halk Bankası",
+                            "Morocco’s Centre Monetique Interbancaire (Interbank Electronic Payment Center)",
+                            "Eservice",
+                            "Credit Europe (Russia, Romania)",
+                            "TEB Kosovo"
+                        ]
+                    }
+                ],
+                "singleInfoList": [
+                    {
+                        "key": "Number of employees of Asseco Group",
+                        "value": "20000 - 25000 (year 2022)"
+                    }
+                ]
+            },
+            "projectList": [
+                {
+                    "id": "asseco-project-vpos",
+                    "name": "Nestpay VPOS Platform",
+                    "duration": "23 months",
+                    "company": "",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://www.payten.com/en/offers/for-payment-financial-institutions/e-commerce/payment-gateway/",
+                            "description": "Product Information Page"
+                        }
+                    ],
+                    "detailList": [
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "Developed the existing project and rewrote it with new technologies using Spring Cloud Microservices.",
+                        "'Distributed Transaction' implemented using CQRS, event-sourcing and Saga patterns using Apache Kafka and Cassandra NO SQL database.",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "highLevelTechnologyStackListExist": true,
+                    "highLevelTechnologyStackList": [
+                        "ElasticStack(ELK)",
+                        "ReactJS",
+                        "Redux",
+                        "Saga(middleware)",
+                        "Kubernetes",
+                        "OpenShift",
+                        "Redis",
+                        "Hazelcast"
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Bitbucket (6.2.0)",
+                            "Atlassian Confluence (6.x)",
+                            "Atlassian Jira (7.x)",
+                            "Atom Text Editor (1.45.0)",
+                            "DBeaver (5.3.1)",
+                            "Eclipse IDE (4.x)",
+                            "Git (SCM - Source Control Management) (2.1x)",
+                            "IntelliJ IDEA IDE (2019.3.x)",
+                            "Visual Studio Code (1.4.x)",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "Eslint (5.16)",
+                            "HTML 5",
+                            "Javascript (Ecmascript 8)",
+                            "ReactJS (16.8.x) (with React-Boilerplate) (with NPM (6.12))",
+                            "Redux (4.0.x) (with Saga (1.0.x))"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven (3.6)",
+                            "Jackson (XML/JSON mapper) (2.9)",
+                            "Java (11.x)",
+                            "JUnit (5.x) (Framework for unit tests)",
+                            "Lombok (1.1)",
+                            "Mapstruct (object mapper framework) (1.4.x)",
+                            "Mockito (2.2x) (Test Driven Development - TDD)",
+                            "Oracle Database (18.0.0)",
+                            "QueryDSL (4.x)",
+                            "Server side patterns: Event Sourcing + CQRS + Saga + Domain Driven Design (DDD)",
+                            "SonarQube (7.9.1) (Code Quality Tool & Secure Analysis)",
+                            "Spring Netflix cloud native microservices (2.2.x)",
+                            "Spring Boot (2.2.x)",
+                            "Swagger (2.0) (for API Documentation)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Cassandra NoSQL Database (3.11.6)",
+                            "Docker containers (19.03) + Docker Compose (3.x)",
+                            "Elastic Stack (ELK - Elastic + Logstash + Kibana) (7.5.0 (each module same version))",
+                            "Graylog",
+                            "HashiCorp Vault (1.6.0)",
+                            "Hazelcast (4.0.x)",
+                            "Jenkins (2.190.3) (for CI/CD)",
+                            "Kafka (1.1.0)",
+                            "Kubernetes (1.11.0) + Openshift (3.11.0) + Minikube (1.11)",
+                            "Liquibase (4.2.0)",
+                            "Redis (6.0)",
+                            "Sonatype Nexus (3.16.x) (for NPM + Maven + Docker)"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "eteration",
+            "name": "Eteration",
+            "position": "Software Engineer",
+            "date": "09/2012 - 02/2019 (6 year 6 months) ",
+            "url": "https://www.eteration.com",
+            "urlDescription": "Eteration Official Web Site",
+            "about": "Eteration is a software and R&D company that provides software consultancy and training services for enterprises in several industries.",
+            "details": {
+                "listedInfoList": [
+                    {
+                        "key": "Some projects of company",
+                        "valueList": [
+                            "Turkish Airlines (THY) - <a target='_blank' rel='noopener noreferrer' href='https://www.turkishairlines.com'>Official ticket sale website</a>",
+                            "THY - Web automation sites for THY agencies",
+                            "Development of OpenADx (Open Autonomous Driving Accelerator) <a target='_blank' rel='noopener noreferrer' href='https://wiki.eclipse.org/OpenADx'>Eclipse Organization Members Info Page</a> (see:'Members' table)",
+                            "Development of Eclipse IDE Web Tools Platform (WTP) <a target='_blank' rel='noopener noreferrer' href='https://www.eclipse.org/proposals/eclipse-webtools/Wikic037.html'> Eclipse Organization WTP commiters page</a> <br /> <a target='_blank' rel='noopener noreferrer' href='https://books.google.com.tr/books?id=2H3pzeQjipsC&pg=PP32&lpg=PP32&dq=%22eteration%22+%22Web+Tools+Platform%22&ots=Ze3Ir85V93&sig=ACfU3U2MyrWM7hAG29F-4ywFlXkYWjS4Tw&hl=tr#v=onepage&q=%22eteration%22%20%22Web%20Tools%20Platform%22&f=false'> Eclipse Web Tools Platform Book</a> <br /> <a target='_blank' rel='noopener noreferrer' href='https://www.eclipse.org/org/press-release/jul262004webtoolspr.html'> Eclipse Organization Press Release</a>",
+                            "M2MGrids <a target='_blank' rel='noopener noreferrer' href='https://cms.eteration.com/storage/uploads/2020/07/29/5f21548f26b16ITEA-Success-story_-M2MGrids---ITEA-Magazine-36-July-2020.pdf'> ITEA Magazine 36 July 2020 (Page: 22-25) </a>",
+                            "Training"
+                        ]
+                    },
+                    {
+                        "key": "Some customers",
+                        "valueList": [
+                            "Vakıfbank",
+                            "Vodafone",
+                            "IBM Turkey",
+                            "Milli Reasürans",
+                            "T.C. Merkez Bankası",
+                            "Turkcell",
+                            "Türkiye İş Bankası",
+                            "İş Yatırım",
+                            "Garanti (BBVA) Bank - KOBİ, Filo, Yatırım, Emeklilik, Garanti Ödeme Sistemleri (GÖSAŞ)"
+                        ]
+                    }
+                ],
+                "singleInfoList": [
+                    {
+                        "key": "Number of employees",
+                        "value": "20-60"
+                    }
+                ]
+            },
+            "projectList": [
+                {
+                    "id": "eteration-project-albaraka",
+                    "name": "Digital Banking Mobile App",
+                    "duration": "10 months",
+                    "company": "Albaraka Bank",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://play.google.com/store/apps/details?id=com.albarakaapp&hl=en_US&gl=US",
+                            "description": "Google Play Store"
+                        },
+                        {
+                            "url": "https://apps.apple.com/tr/app/albaraka-mobil/id1428860724",
+                            "description": "Apple Store"
+                        }
+                    ],
+                    "detailList": [
+                        "Worked as a consultant for Albaraka at their offices.",
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "Rewrote the entire Android and iOS mobile applications of Albaraka's digital banking and developed new web services to support different mobile clients and others (ATM, Web).",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "highLevelTechnologyStackListExist": true,
+                    "highLevelTechnologyStackList": [
+                        "Spring",
+                        "Microservices",
+                        "Docker",
+                        "containers",
+                        "ReactNative",
+                        "Redux",
+                        "Saga",
+                        "ELK"
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Andmore (Eclipse Android Plugin)",
+                            "Android Studio IDE",
+                            "Atlassian Confluence (5.x)",
+                            "Atlassian Jira (6.x)",
+                            "Atom Text Editor",
+                            "Eclipse IDE (4.x)",
+                            "SoapUI (5.x)",
+                            "Visual Studio Code",
+                            "Visual Studio IDE (2017)",
+                            "XCode",
+                            "Git (SCM - Source Control Management)"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "Eslint (with babel-plugin)",
+                            "Javascript (Ecmascript 6)",
+                            "lodash",
+                            "native-base",
+                            "React-native (Android, iOS application)",
+                            "ReactJS (for config-management/admin operations from web-browser)",
+                            "Redux (with Saga)",
+                            "HTML"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven",
+                            "Appium",
+                            "Gradle",
+                            "Java (8.x)",
+                            "JUnit (4.x) (Framework for unit tests)",
+                            "JWT (JSON Web Token)",
+                            "Mockito (Test Driven Development - TDD)",
+                            "SOAP Web Service (Simple Object Access Protocol)",
+                            "Spring Netflix cloud native microservices",
+                            "Steel toe (C# .NET core microservices)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Docker compose",
+                            "Docker containers",
+                            "Docker swarm",
+                            "Docker Trusted Registry (DTR)",
+                            "Docker Universal Control Plane (UCP)",
+                            "Elastic Stack (ELK - Elastic + Logstash + Kibana)",
+                            "Gerrit (2.x)",
+                            "GitLab (for CI/CD)",
+                            "Jenkins (for CI/CD)",
+                            "Sonatype Nexus (for NPM + Maven + Gradle repositories)"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-bsh",
+                    "name": "Test Management System",
+                    "duration": "12 months",
+                    "company": "B/S/H",
+                    "detailList": [
+                        "Worked as a consultant for BSH company at their offices.",
+                        "Analyzed all the new features and requests of customers (product owners) through in-person contact.",
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Developed a new automation (framework) infrastructure to test all of the BSH company web pages.",
+                        "The new test platform was able to run parallel (auto scalable) tests on Amazon Cloud Web Services using Docker."
+                    ],
+                    "highLevelTechnologyStackListExist": true,
+                    "highLevelTechnologyStackList": [
+                        "MongoDB",
+                        "NoSQL",
+                        "AngularJS",
+                        "Selenium",
+                        "Docker"
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Bamboo (5.x)",
+                            "Atlassian Bitbucket (4.x)",
+                            "Atlassian Confluence (5.x)",
+                            "Atlassian Jira (7.x)",
+                            "Atom Text Editor",
+                            "Eclipse IDE (4.x)",
+                            "Git (SCM - Source Control Management)",
+                            "Xray (Atlassian Jira Plugin)",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "AngularJS (1.x)",
+                            "Bootstrap JS (3.x)",
+                            "Javascript",
+                            "jQuery (3.x)",
+                            "HTML"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven (3.x)",
+                            "Java (8.x)",
+                            "JBehave (3.x)",
+                            "Custom DSL language for BDD (Behavior-driven development)",
+                            "JUnit (4.x) (Framework for unit tests)",
+                            "Selenium (2.x)",
+                            "SonarQube (Code Quality Tool & Secure Analysis)",
+                            "Spring Framework (4.x)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Amazon Elastic Compute Cloud (Amazon EC2)",
+                            "Amazon Web Services (AWS)",
+                            "Docker containers",
+                            "Elastic Beanstalk",
+                            "MongoDB NoSQL Database (3.x)"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-garanti",
+                    "name": "Digital Banking",
+                    "duration": "6 months",
+                    "company": "Garanti Teknoloji",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://sube.garantibbva.com.tr/isube/login/login/passwordentrypersonal-en",
+                            "description": "Garanti Online Digital Banking"
+                        }
+                    ],
+                    "detailList": [
+                        "Worked as a consultant for Garanti Bank (BBVA) at their offices.",
+                        "Worked as a back-end and front-end developer.",
+                        "Upgraded the Garanti (BBVA) internet banking."
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "CA Harvest SCM",
+                            "Eclipse IDE"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "Bootstrap JS",
+                            "Javascript",
+                            "jQuery (1.8)",
+                            "HTML"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "JSP (JavaServer Pages)",
+                            "Java",
+                            "Spring Framework (3.x)",
+                            "Spring MVC",
+                            "Hibernate"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-carrefour",
+                    "name": "E-Commerce Web",
+                    "duration": "17 months",
+                    "company": "Carrefour SA",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://www.carrefoursa.com",
+                            "description": "Carrefour Online Store"
+                        }
+                    ],
+                    "detailList": [
+                        "Developed the e-commerce web project for Carrefour which supports multiple online payment systems (PayPal, credit-card).",
+                        "Developed Android application which collects the physical products for distribution to use internally at Carrefour stores.",
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Confluence (5.x)",
+                            "Atlassian Jira (6.x)",
+                            "Eclipse IDE (4.x)",
+                            "EMS SQL Manager for PostgreSQL",
+                            "Git (SCM - Source Control Management)",
+                            "pgAdmin",
+                            "SoapUI (4.x, 5.x)",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "Javascript",
+                            "JQuery",
+                            "HTML"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Integrated online payment methods/banks (vPOS): all bank in Turkey (Akbank, İşbank, Garanti, Halkbank), PayPal, BKM (Bankalar Arası Kart Merkezi) Express, 3D Secure, credit and debit cards",
+                            "Apache Maven (3.x)",
+                            "EclipseLink (JPA)",
+                            "JavaEE (6.x, 7.x) (Java Enterprise Edition)",
+                            "JSF (JavaServer Faces) (2.x)",
+                            "SQL",
+                            "PrimeFaces (3.x)",
+                            "REST Web Service"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Apache HTTP Server",
+                            "CDN (Content Delivery Network)",
+                            "Gerrit",
+                            "GlassFish Server (3.x)",
+                            "Jenkins (1.x) (for CI/CD)",
+                            "Nginx",
+                            "PostgreSQL Database (9.x)",
+                            "Sonatype Nexus"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-ing",
+                    "name": "Mobile Application",
+                    "duration": "15 months",
+                    "company": "• ING (NN Group) Emeklilik • OYAK Emeklilik",
+                    "urlExist": true,
+                    "urlList": [
+                        {
+                            "url": "https://apps.apple.com/us/app/nn-senin-mobilin/id898239714?l=en",
+                            "description": "Apple Store (ING)"
+                        },
+                        {
+                            "url": "https://play.google.com/store/apps/details?id=com.eteration.ing.mobile.android&hl=en&gl=US",
+                            "description": "Google Play Store (ING)"
+                        },
+                        {
+                            "url": "https://apps.apple.com/tr/app/oyak-mobil/id1564032968",
+                            "description": "Apple Store (Oyak)"
+                        },
+                        {
+                            "url": "https://play.google.com/store/apps/details?id=com.oyak.mobil&hl=tr&gl=US",
+                            "description": "Google Play Store (Oyak)"
+                        }
+                    ],
+                    "detailList": [
+                        "Developed new iOS and Android mobile applications and web services for both companies (ING and OYAK) individually, offering pension/financial operations for customers.",
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Confluence (5.x)",
+                            "Atlassian Jira (6.x)",
+                            "Eclipse IDE (4.x)",
+                            "Genymotion Emulator and Standard SDK Emulator",
+                            "Git (SCM - Source Control Management)",
+                            "SoapUI (4.x)",
+                            "Visual Studio IDE (2013)",
+                            "XCode",
+                            "Microsoft Windows & Ubuntu (Linux) & MacOS"
+                        ],
+                        "frontEndListExist": true,
+                        "frontEndList": [
+                            "Android (4.x)",
+                            "Backbone.js (1.x)",
+                            "HTML",
+                            "iOS (4.x - 7.x)",
+                            "Javascript",
+                            "jQuery (2.x)",
+                            "jQuery Mobile (1.x)",
+                            "Mobile Hybrid (Cordova 2.x, 3.x) Framework",
+                            "Underscore.js (1.x)",
+                            "Windows Phone (8.x)"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven (3.x)",
+                            "JavaEE (6.x, 7.x) (Java Enterprise Edition)",
+                            "REST Web Services (For middleware)",
+                            "SOAP Web Services",
+                            "TomEE (1.x)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Gerrit",
+                            "Jenkins (1.x) (for CI/CD)",
+                            "Nginx",
+                            "Sonatype Nexus"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-mig",
+                    "name": "Identification System",
+                    "duration": "6 months",
+                    "company": "MIG International",
+                    "detailList": [
+                        "Programmed a new web service for customer identification.",
+                        "Worked as a full-stack developer and had the full responsibility of the application development, architectural design, support, it's security and DevOps.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "The whole developed platform passed security penetration tests of independent security companies multiple times."
+                    ],
+                    "highLevelTechnologyStackListExist": false,
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Atlassian Confluence (5.x)",
+                            "Atlassian Jira (6.x)",
+                            "Eclipse IDE (4.x)",
+                            "Git (SCM - Source Control Management)",
+                            "SoapUI (4.x)",
+                            "Sonatype Nexus",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache JMeter (2.x)",
+                            "Apache Maven (3.x)",
+                            "EclipseLink (JPA)",
+                            "JavaEE (6.x, 7.x) (Java Enterprise Edition)",
+                            "JSF (JavaServer Faces) (2.x)",
+                            "Microsoft SQL Server (2012) Database",
+                            "PrimeFaces (3.x)",
+                            "SafeNet Luna HSM (Hardware Security Module) (Cryptoprocessor Device)",
+                            "SQL",
+                            "TomEE Server",
+                            "HTTP Web Services",
+                            "SOAP Web Services (Simple Object Access Protocol)"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Gerrit",
+                            "Jenkins (1.x) (for CI/CD)"
+                        ]
+                    }
+                },
+                {
+                    "id": "eteration-project-thy",
+                    "name": "Transformation to Maven",
+                    "duration": "4 months",
+                    "company": "Turkish Airlines",
+                    "detailList": [
+                        "Worked as a consultant for Turkish Airlines (THY) at their offices.",
+                        "Frequently analyzed new features and requests of customers (product owners) through in-person contact.",
+                        "Integrated all projects of Turkish Airlines (THY) organization to the Apache Maven structure and all projects connected to continuous integration life cycle (build, test, deployment...) of Jenkins."
+                    ],
+                    "allTechnologyStack": {
+                        "toolListExist": true,
+                        "toolList": [
+                            "Apache Ant Script",
+                            "Clockware Tock",
+                            "Eclipse IDE",
+                            "Netbeans IDE",
+                            "SVN (Subversion) (SCM - Source Control Management)",
+                            "Xwiki",
+                            "Microsoft Windows & Ubuntu (Linux)"
+                        ],
+                        "backEndListExist": true,
+                        "backEndList": [
+                            "Apache Maven",
+                            "JUnit (Framework for unit tests)",
+                            "Oracle Weblogic"
+                        ],
+                        "devopsListExist": true,
+                        "devopsList": [
+                            "Artifactory",
+                            "Jenkins (for CI/CD)"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "languageList": [
+        {
+            "language": "English",
+            "level": "Professional working proficiency"
+        },
+        {
+            "language": "Greek",
+            "level": "Native proficiency"
+        },
+        {
+            "language": "Turkish",
+            "level": "Native proficiency"
+        }
+    ],
+    "personalInformationList": [
+        {
+            "key": "Driving License",
+            "value": "B"
+        },
+        {
+            "key": "Address",
+            "value": "Istanbul, Turkey"
+        },
+        {
+            "key": "Date of Birth",
+            "value": "07 February 1989"
+        },
+        {
+            "key": "Mandatory Military Service",
+            "value": "Completed (6 months)"
+        }
+    ],
+    "educationList": [
+        {
+            "id": "master",
+            "institute": "Halic University",
+            "level": "Master of Science",
+            "date": "08/2014 - 05/2017",
+            "department": "Computer Engineering",
+            "gradePointAverage": "4.0 / 4.0",
+            "thesisDetail": "Socket and MQTT interface with Android implementation for hybrid applications.",
+            "allTechnologyStack": {
+                "toolListExist": true,
+                "toolList": [
+                    "Eclipse IDE",
+                    "Mqtt-spy"
+                ],
+                "backEndListExist": false,
+                "devopsListExist": true,
+                "devopsList": [
+                    "Moquette"
+                ],
+                "frontEndListExist": true,
+                "frontEndList": [
+                    "Android (4.x)",
+                    "Java",
+                    "Javascript",
+                    "Mobile Hybrid (Cordova 2.x, 3.x) Application",
+                    "MQTT (Message Queue Telemetry Transport) protocol",
+                    "Paho",
+                    "TCP (Transmission Control Protocol) Socket programming"
+                ]
+            }
+        },
+        {
+            "id": "bachelor",
+            "institute": "Halic University",
+            "level": "Bachelor's Degree",
+            "date": "09/2007 - 10/2012",
+            "department": "Computer Engineering",
+            "gradePointAverage": "3.2 / 4.0",
+            "thesisDetail": "Cross-platform (mobile and desktop) remote control and screen sharing application.",
+            "allTechnologyStack": {
+                "toolListExist": true,
+                "toolList": [
+                    "Eclipse IDE"
+                ],
+                "backEndListExist": false,
+                "devopsListExist": false,
+                "frontEndListExist": true,
+                "frontEndList": [
+                    "Android Native Application (2.x)",
+                    "Java",
+                    "TCP (Transmission Control Protocol) Socket programming"
+                ]
+            }
+        },
+        {
+            "id": "highschool",
+            "institute": "Zografyon Greek High School",
+            "level": "High School",
+            "date": "2004 - 2007",
+            "department": "Science & Mathematics",
+            "gradePointAverage": "80/100"
+        }
+    ]
+}
