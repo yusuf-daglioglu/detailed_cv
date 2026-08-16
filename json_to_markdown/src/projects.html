@@ -1,0 +1,122 @@
+# 💻 Projects
+
+{{#companyList}}
+
+## 🏛️ {{index}} • __Company__: {{name}}
+
+!!! info "About the company"
+
+    - Company Web Site: <a target="_blank" rel="noopener noreferrer" href="{{url}}">{{urlDescription}}</a>
+
+    {{about}}
+
+??? info "More details about the company"
+
+    {{#details}}
+    {{#singleInfoList}}
+    __{{key}}__: {{value}} <br>
+    {{/singleInfoList}}
+
+    {{#listedInfoList}}
+    __{{key}}__:
+    {{#valueList}} 
+
+    - {{.}}
+
+    {{/valueList}}
+    <br>
+    {{/listedInfoList}}
+    {{/details}}
+
+!!! info "Working Date"
+
+    {{date}}
+    
+    Total: {{date_total}}
+
+!!! info "Position"
+
+    {{position}}
+
+{{#projectList}}
+
+### 💻 {{index}} • __Project__: {{name}}
+
+!!! example "Project Details"
+
+    - Duration: {{duration}}
+
+    {{#urlExist}}
+    - Web Site:{{#urlList}} • <a target="_blank" rel="noopener noreferrer" href="{{url}}">{{description}}</a>{{/urlList}}
+    {{/urlExist}}
+
+    <br>
+
+    {{#detailList}}
+    - {{.}}
+    {{/detailList}}
+
+    {{#allTechnologyStack}}
+??? example "Technologies and Tools used in this project"
+
+    {{#frontEndListExist}}
+    __Front-end__
+    {{/frontEndListExist}}
+    
+    {{#frontEndList}}
+    - {{.}}
+    {{/frontEndList}}
+    {{#frontEndListExist}}
+    
+    {{/frontEndListExist}}
+    {{#backEndListExist}}
+    
+    __Back-end__
+    
+    {{/backEndListExist}}
+    {{#backEndList}}
+    - {{.}}
+    {{/backEndList}}
+    {{#backEndListExist}}
+    
+    {{/backEndListExist}}
+    {{#devopsListExist}}
+
+    __DevOps__
+
+    {{/devopsListExist}}
+    {{#devopsList}}
+    - {{.}}
+    {{/devopsList}}
+    {{#devopsListExist}}
+    
+    {{/devopsListExist}}
+
+    {{#toolListExist}}
+    
+    __Tools__
+    
+    {{/toolListExist}}
+    {{#toolList}}
+    - {{.}}
+    {{/toolList}}
+
+    {{/allTechnologyStack}}
+
+<br>
+
+    {{/projectList}}
+
+    {{/companyList}}
+
+<br><br>
+
+<b>Kişisel Verilerin Korunması Bildirimi</b>
+
+Bu web sitesinde yer alan tüm kişisel veriler web sitesi sahibine aittir. İzinsiz olarak kopyalanamaz, çoğaltılamaz, yayımlanamaz veya herhangi bir platformda paylaşılamaz. İhlal halinde yasal haklar saklıdır.
+
+<b>Personal Data Protection Notice</b>
+
+All personal data on this web site belong to the web site owner. They may not be copied, reproduced, published, or shared on any platforms without permission. Legal rights are reserved in case of violation.
+
+<br><br>

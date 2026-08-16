@@ -1,0 +1,85 @@
+# 🎓 Education
+
+{{#educationList}}
+
+## 🎓 __DEGREE__: {{level}}
+
+- __Institution__: {{institute}}
+- __Date__: {{date}}
+- __Department__: {{department}}
+- __Grade Point Average (GPA)__: {{gradePointAverage}}
+
+{{#thesisDetail}}
+!!! example "Thesis"
+
+    {{thesisDetail}}
+{{/thesisDetail}}
+
+{{#allTechnologyStack}}
+??? example "Technologies and Tools of this Thesis"
+
+    {{#frontEndListExist}}
+    __Front-end__
+    {{/frontEndListExist}}
+    
+    {{#frontEndList}}
+    - {{.}}
+    {{/frontEndList}}
+    {{#frontEndListExist}}
+    
+    {{/frontEndListExist}}
+    {{#backEndListExist}}
+    
+    __Back-end__
+    
+    {{/backEndListExist}}
+    {{#backEndList}}
+    - {{.}}
+    {{/backEndList}}
+    {{#backEndListExist}}
+    
+    {{/backEndListExist}}
+    {{#devopsListExist}}
+
+    __DevOps__
+
+    {{/devopsListExist}}
+    {{#devopsList}}
+    - {{.}}
+    {{/devopsList}}
+    {{#devopsListExist}}
+    
+    {{/devopsListExist}}
+
+    {{#toolListExist}}
+    
+    __Tools__
+    
+    {{/toolListExist}}
+    {{#toolList}}
+    - {{.}}
+    {{/toolList}}
+
+{{/allTechnologyStack}}
+
+<br>
+
+{{/educationList}}
+
+## ⭐ Member of Department Advisory Board
+
+- __Institution__: Halic University
+- __Date__: 2020 - 2025
+- __Department__: Software Engineering
+
+<br><br>
+
+<b>Kişisel Verilerin Korunması Bildirimi</b>
+
+Bu web sitesinde yer alan tüm kişisel veriler web sitesi sahibine aittir. İzinsiz olarak kopyalanamaz, çoğaltılamaz, yayımlanamaz veya herhangi bir platformda paylaşılamaz. İhlal halinde yasal haklar saklıdır.
+
+<b>Personal Data Protection Notice</b>
+
+All personal data on this web site belong to the web site owner. They may not be copied, reproduced, published, or shared on any platforms without permission. Legal rights are reserved in case of violation.
+
+<br><br>
