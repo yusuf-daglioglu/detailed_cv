@@ -1,0 +1,29 @@
+# 🗣 Languages
+
+
+!!! success "English"
+
+    Intermediate
+
+
+!!! success "Greek"
+
+    Native
+
+
+!!! success "Turkish"
+
+    Native
+
+
+<br><br>
+
+<b>Kişisel Verilerin Korunması Bildirimi</b>
+
+Bu web sitesinde yer alan tüm kişisel veriler web sitesi sahibine aittir. İzinsiz olarak kopyalanamaz, çoğaltılamaz, yayımlanamaz veya herhangi bir platformda paylaşılamaz. İhlal halinde yasal haklar saklıdır.
+
+<b>Personal Data Protection Notice</b>
+
+All personal data on this web site belong to the web site owner. They may not be copied, reproduced, published, or shared on any platforms without permission. Legal rights are reserved in case of violation.
+
+<br><br>
